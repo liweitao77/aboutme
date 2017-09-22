@@ -1,0 +1,26 @@
+*{
+	margin: 0;
+}
+li{
+	list-style-type: none;
+}
+#content{
+	width: 80%;
+	display: flex;
+	flex-flow: row wrap;
+	float: right;
+}
+#tu {
+	padding: 20px;
+	display: inline-block;
+}
+#tu img{
+	margin-top: 20px;
+}
+.yangshi{
+	background-color: #d1d3d3;
+	flex:1 2 500px;
+	border-radius: 10px;
+	padding:20px;
+	margin:20px;	
+}
